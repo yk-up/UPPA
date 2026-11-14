@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+._*
+.venv/
+.env
+.env.*
+logs/
+attack_results/
+weights/
+val_people/
+*.pth
+*.pt
+*.npy
+*.npz
+*.log

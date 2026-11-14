@@ -1,0 +1,47 @@
+[
+  {
+    "name": "yolov3",
+    "config": "./configs/configs/yolov3.py",
+    "checkpoint": "./weights/my_custom_dataset/yolov3_909.pth"
+  },
+  {
+    "name": "detr",
+    "config": "./configs/configs/detr.py",
+    "checkpoint": "./weights/my_custom_dataset/detr_912.pth"
+  },
+  {
+    "name": "mask_rcnn",
+    "config": "./configs/configs/mask.py",
+    "checkpoint": "./weights/my_custom_dataset/mask_895.pth"
+  },
+  {
+    "name": "faster_rcnn",
+    "config": "./configs/configs/faster.py",
+    "checkpoint": "./weights/my_custom_dataset/faster_908.pth"
+  },
+  {
+    "name": "libra_rcnn",
+    "config": "./configs/configs/libra.py",
+    "checkpoint": "./weights/my_custom_dataset/libra_880.pth"
+  },
+  {
+    "name": "retinanet",
+    "config": "./configs/configs/retina.py",
+    "checkpoint": "./weights/my_custom_dataset/retina_930.pth"
+  },
+  {
+    "name": "yolof",
+    "config": "./configs/configs/yolof.py",
+    "checkpoint": "./weights/my_custom_dataset/yolof_921.pth"
+  },
+  {
+    "name": "yolox",
+    "config": "./configs/configs/yolox.py",
+    "checkpoint": "./weights/my_custom_dataset/yolox_893.pth"
+  },
+  {
+    "name": "deformable_detr",
+    "config": "./configs/configs/deformable_detr.py",
+    "checkpoint": "./weights/my_custom_dataset/deformable_detr_928.pth"
+  }
+]
